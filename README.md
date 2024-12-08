@@ -110,15 +110,3 @@ Add reminders and notifications for tasks
 Implement search and filter functionality for todos
 Introduce a priority or category feature for tasks
 Enhance security with OAuth or social logins
-License
-This project is licensed under the MIT License.
-
-yaml
-Copy code
-
----
-
-**Steps to Add This File to Your Project**:
-1. Create a new file named `README.md` in the root of your project directory.
-2. Copy and paste the content above into the file.
-3. Save the file. It will be automatically rendered on platforms like GitHub when you push your project.
